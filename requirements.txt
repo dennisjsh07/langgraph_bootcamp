@@ -2,5 +2,11 @@ ipykernel
 typing-extensions
 langgraph
 python-dotenv
+
 langchain-openai
 langchain-groq
+langchain-community 
+
+arxiv
+wikipedia
+langchain-tavily
