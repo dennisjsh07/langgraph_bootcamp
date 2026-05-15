@@ -3,12 +3,16 @@ typing-extensions
 langgraph
 python-dotenv
 
+langchain>=0.1.0
 langchain-openai
 langchain-groq
 langchain-community 
+langchainhub
 
 arxiv
 wikipedia
 langchain-tavily
 
 langgraph-cli[inmem]
+
+faiss-cpu
